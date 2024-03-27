@@ -1,4 +1,3 @@
  I am first file
-changes to be discarded
 Adding contents in the new branch
 
